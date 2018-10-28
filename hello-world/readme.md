@@ -16,7 +16,7 @@ Geolista is built upon a mix of Java and Kotlin. It is designed using Android St
 
 Our journey has been fraught with challenges and lessons learned. Working in a relatively unfamiliar IDE and on a new platform led to nearly endless errors, warnings, and new conventions and schema to follow. Our primary struggle was simply getting the APK to successfully compile and run as intended, which in time we were able to both pull off and expand upon our initial ideas.
 
-## What are some accomplishments that we're proud of?
+### What are some accomplishments that we're proud of?
 
 We're proud of the progress we have been able to make in such a short time. 24 hours ago, Geolista did not even exist in the mind of any of our team. We went from brainstorming a separate app to creating the idea for and switching gears to Geolista. We have been able to utilize powerful resources within Android Studio and were able to finally resolve longstanding issues we all shared with the IDE. 
 
@@ -36,6 +36,6 @@ Coming soon for Geolista is advanced location-aware features, and implementing m
 * tumblr
 
 
-Check out our website[http://geolista.co.vu]!
+Check out our website! http://geolista.co.vu
 
 Additional credit: https://github.com/mobiletutors/MyShoppingList
