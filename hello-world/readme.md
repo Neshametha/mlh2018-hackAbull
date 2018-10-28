@@ -22,7 +22,7 @@ We're proud of the progress we have been able to make in such a short time. 24 h
 
 ### What did we learn?
 
-Developing Geolista has been an incredible learning experience. From helping team members download and install Android Studio to reaching out to fellow hackers, we have learned about many topics. Some include Android Studio and setting up its environment, using Kotlin, Android permissions, Android Developer resources, MIT App Inventor, Ionic, Node.JS, interpreting smartphone sensor data, Devpost, Github, and more. What's next for GeoLista
+Developing Geolista has been an incredible learning experience. From helping team members download and install Android Studio to reaching out to fellow hackers, we have learned about many topics. Some include Android Studio and setting up its environment, using Kotlin, Android permissions, Android Developer resources, MIT App Inventor, Ionic, Node.JS, interpreting smartphone sensor data, Devpost, Github, and more.
 
 ### What's next for Geolista?
 
