@@ -26,7 +26,9 @@ Developing Geolista has been an incredible learning experience. From helping tea
 
 ### What's next for Geolista?
 
-Coming soon for Geolista is advanced location-aware features, and implementing machine learning to allow the app to both learn your shopping trends and suggest items you usually buy or may like at the stores you usually shop at. Built With
+Coming soon for Geolista is advanced location-aware features, and implementing machine learning to allow the app to both learn your shopping trends and suggest items you usually buy or may like at the stores you usually shop at.
+
+### What'd we build it with?
 
 * android-studio
 * kotlin
